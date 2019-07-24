@@ -31,11 +31,11 @@
   </entry>
   
   <entry>
-    <title>为了BLOG而BLOG</title>
-    <link href="http://yoursite.com/internet/%E4%B8%BA%E4%BA%86BLOG%E8%80%8CBLOG.html"/>
-    <id>http://yoursite.com/internet/为了BLOG而BLOG.html</id>
-    <published>2006-02-14T11:53:52.000Z</published>
-    <updated>2019-07-24T03:37:20.476Z</updated>
+    <title>国际域名历险记</title>
+    <link href="http://yoursite.com/%E4%BA%92%E8%81%94%E7%BD%91/%E5%9B%BD%E9%99%85%E5%9F%9F%E5%90%8D%E5%8E%86%E9%99%A9%E8%AE%B0.html"/>
+    <id>http://yoursite.com/互联网/国际域名历险记.html</id>
+    <published>2019-03-03T03:40:44.000Z</published>
+    <updated>2019-07-24T03:49:26.031Z</updated>
     
     <summary type="html">
     
@@ -49,7 +49,35 @@
     
     </summary>
     
-      <category term="internet" scheme="http://yoursite.com/categories/internet/"/>
+      <category term="互联网" scheme="http://yoursite.com/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+      <category term="域名" scheme="http://yoursite.com/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为了BLOG而BLOG</title>
+    <link href="http://yoursite.com/%E4%BA%92%E8%81%94%E7%BD%91/%E4%B8%BA%E4%BA%86BLOG%E8%80%8CBLOG.html"/>
+    <id>http://yoursite.com/互联网/为了BLOG而BLOG.html</id>
+    <published>2006-02-14T11:53:52.000Z</published>
+    <updated>2019-07-24T03:49:15.735Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="互联网" scheme="http://yoursite.com/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
     
       <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
