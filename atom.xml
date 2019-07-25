@@ -95,35 +95,6 @@ iPhone使用OTG方式更新iOS10变砖解决方法		</title>
   
   <entry>
     <title>
-网上求职陷阱		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/internet-employment-traps.html"/>
-    <id>http://wxnn.org/互联网/无心呢喃/internet-employment-traps.html</id>
-    <published>2016-09-08T09:28:51.000Z</published>
-    <updated>2019-07-25T04:22:42.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
-    
-      <category term="无心呢喃" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/"/>
-    
-    
-      <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>
 digitalocean搭建wordpress		</title>
     <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/digitalocean-setup-wordpress.html"/>
     <id>http://wxnn.org/网站建设/digitalocean-setup-wordpress.html</id>
@@ -355,9 +326,9 @@ digitalocean搭建wordpress		</title>
       <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
     
     
-      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
       <category term="技巧" scheme="http://wxnn.org/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
     
       <category term="windows" scheme="http://wxnn.org/tags/windows/"/>
     
@@ -1463,9 +1434,9 @@ blog服务器出问题了		</title>
       <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
     
     
-      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
       <category term="技巧" scheme="http://wxnn.org/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
     
       <category term="windows" scheme="http://wxnn.org/tags/windows/"/>
     
@@ -2775,9 +2746,9 @@ IE8使用心得		</title>
       <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
     
     
-      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
       <category term="技巧" scheme="http://wxnn.org/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -3046,9 +3017,9 @@ Wordpress字体的设置		</title>
       <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
     
     
-      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
       <category term="技巧" scheme="http://wxnn.org/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -3175,9 +3146,9 @@ PHP 的扩展设置mbstring 解决方法		</title>
     
       <category term="php" scheme="http://wxnn.org/tags/php/"/>
     
-      <category term="windows" scheme="http://wxnn.org/tags/windows/"/>
-    
       <category term="mysql" scheme="http://wxnn.org/tags/mysql/"/>
+    
+      <category term="windows" scheme="http://wxnn.org/tags/windows/"/>
     
   </entry>
   
