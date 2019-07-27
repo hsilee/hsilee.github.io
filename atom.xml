@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wxnn.org/"/>
-  <updated>2019-07-27T02:51:49.117Z</updated>
+  <updated>2019-07-27T03:05:20.026Z</updated>
   <id>http://wxnn.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/iphone-otg-ios10-bricking-solve.html"/>
     <id>http://wxnn.org/数码电脑/iphone-otg-ios10-bricking-solve.html</id>
     <published>2016-09-15T07:40:55.000Z</published>
-    <updated>2019-07-27T02:51:49.117Z</updated>
+    <updated>2019-07-27T03:05:20.026Z</updated>
     
     <summary type="html">
     
@@ -120,9 +120,9 @@ digitalocean搭建wordpress		</title>
     
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="windows" scheme="http://wxnn.org/tags/windows/"/>
-    
       <category term="iOS" scheme="http://wxnn.org/tags/iOS/"/>
+    
+      <category term="windows" scheme="http://wxnn.org/tags/windows/"/>
     
       <category term="Outlook" scheme="http://wxnn.org/tags/Outlook/"/>
     
@@ -349,9 +349,9 @@ zol下载器植入木马劫持浏览器		</title>
     
       <category term="Wordpress" scheme="http://wxnn.org/tags/Wordpress/"/>
     
-      <category term="虚拟主机" scheme="http://wxnn.org/tags/%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA/"/>
-    
       <category term="域名" scheme="http://wxnn.org/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+      <category term="虚拟主机" scheme="http://wxnn.org/tags/%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA/"/>
     
   </entry>
   
