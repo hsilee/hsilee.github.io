@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wxnn.org/"/>
-  <updated>2019-07-27T02:47:41.320Z</updated>
+  <updated>2019-07-27T02:51:49.117Z</updated>
   <id>http://wxnn.org/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title> ![](/img/ios10.jpg) iPhone使用OTG方式更新iOS10变砖解决方法		</title>
+    <title> iPhone使用OTG方式更新iOS10变砖解决方法		</title>
     <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/iphone-otg-ios10-bricking-solve.html"/>
     <id>http://wxnn.org/数码电脑/iphone-otg-ios10-bricking-solve.html</id>
     <published>2016-09-15T07:40:55.000Z</published>
-    <updated>2019-07-27T02:47:41.320Z</updated>
+    <updated>2019-07-27T02:51:49.117Z</updated>
     
     <summary type="html">
     
@@ -112,17 +112,17 @@ digitalocean搭建wordpress		</title>
       <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
     
     
+      <category term="email" scheme="http://wxnn.org/tags/email/"/>
+    
       <category term="Android" scheme="http://wxnn.org/tags/Android/"/>
     
       <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
     
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="email" scheme="http://wxnn.org/tags/email/"/>
+      <category term="windows" scheme="http://wxnn.org/tags/windows/"/>
     
       <category term="iOS" scheme="http://wxnn.org/tags/iOS/"/>
-    
-      <category term="windows" scheme="http://wxnn.org/tags/windows/"/>
     
       <category term="Outlook" scheme="http://wxnn.org/tags/Outlook/"/>
     
@@ -1545,9 +1545,9 @@ icq7中文版		</title>
       <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
     
-      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
       <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
+    
+      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
     
       <category term="QQ" scheme="http://wxnn.org/tags/QQ/"/>
     
@@ -1609,11 +1609,11 @@ google 选择不离开中国		</title>
       <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
     
-      <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
-    
       <category term="163" scheme="http://wxnn.org/tags/163/"/>
     
       <category term="email" scheme="http://wxnn.org/tags/email/"/>
+    
+      <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
     
       <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
     
@@ -1705,11 +1705,11 @@ Google Goggles		</title>
       <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
     
     
+      <category term="email" scheme="http://wxnn.org/tags/email/"/>
+    
       <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
     
       <category term="黑莓" scheme="http://wxnn.org/tags/%E9%BB%91%E8%8E%93/"/>
-    
-      <category term="email" scheme="http://wxnn.org/tags/email/"/>
     
       <category term="Gps" scheme="http://wxnn.org/tags/Gps/"/>
     
@@ -2001,9 +2001,9 @@ Opera Unite,真正的网络共享		</title>
     
       <category term="湖人" scheme="http://wxnn.org/tags/%E6%B9%96%E4%BA%BA/"/>
     
-      <category term="twitter" scheme="http://wxnn.org/tags/twitter/"/>
-    
       <category term="科比" scheme="http://wxnn.org/tags/%E7%A7%91%E6%AF%94/"/>
+    
+      <category term="twitter" scheme="http://wxnn.org/tags/twitter/"/>
     
   </entry>
   
@@ -2438,11 +2438,11 @@ hotmail信箱的POP3设置		</title>
       <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
     
     
+      <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
+    
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
       <category term="mail" scheme="http://wxnn.org/tags/mail/"/>
-    
-      <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
     
       <category term="pop3" scheme="http://wxnn.org/tags/pop3/"/>
     
@@ -3003,9 +3003,9 @@ Wordpress字体的设置		</title>
       <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
     
     
-      <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
-    
       <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
+    
+      <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
       <category term="windows" scheme="http://wxnn.org/tags/windows/"/>
     
@@ -3663,11 +3663,11 @@ Google vs Microsoft		</title>
     
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
     
+      <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
+    
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
-    
-      <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
     
   </entry>
   
