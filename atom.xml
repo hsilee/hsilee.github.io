@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wxnn.org/"/>
-  <updated>2019-07-25T04:22:42.000Z</updated>
+  <updated>2019-07-27T00:58:49.226Z</updated>
   <id>http://wxnn.org/</id>
   
   <author>
@@ -17,12 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>
-iPhone使用OTG方式更新iOS10变砖解决方法		</title>
+    <title> ![](/img/ios10.jpg) iPhone使用OTG方式更新iOS10变砖解决方法		</title>
     <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/iphone-otg-ios10-bricking-solve.html"/>
     <id>http://wxnn.org/数码电脑/iphone-otg-ios10-bricking-solve.html</id>
     <published>2016-09-15T07:40:55.000Z</published>
-    <updated>2019-07-25T04:22:42.000Z</updated>
+    <updated>2019-07-27T00:58:49.226Z</updated>
     
     <summary type="html">
     
@@ -74,11 +73,11 @@ digitalocean搭建wordpress		</title>
       <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
     
     
+      <category term="php" scheme="http://wxnn.org/tags/php/"/>
+    
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
     
       <category term="Wordpress" scheme="http://wxnn.org/tags/Wordpress/"/>
-    
-      <category term="php" scheme="http://wxnn.org/tags/php/"/>
     
       <category term="域名" scheme="http://wxnn.org/tags/%E5%9F%9F%E5%90%8D/"/>
     
@@ -350,9 +349,9 @@ zol下载器植入木马劫持浏览器		</title>
     
       <category term="Wordpress" scheme="http://wxnn.org/tags/Wordpress/"/>
     
-      <category term="虚拟主机" scheme="http://wxnn.org/tags/%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA/"/>
-    
       <category term="域名" scheme="http://wxnn.org/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+      <category term="虚拟主机" scheme="http://wxnn.org/tags/%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA/"/>
     
   </entry>
   
@@ -443,9 +442,9 @@ zol下载器植入木马劫持浏览器		</title>
       <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
     
-      <category term="Seo" scheme="http://wxnn.org/tags/Seo/"/>
-    
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="Seo" scheme="http://wxnn.org/tags/Seo/"/>
     
       <category term="域名" scheme="http://wxnn.org/tags/%E5%9F%9F%E5%90%8D/"/>
     
@@ -1610,11 +1609,11 @@ google 选择不离开中国		</title>
       <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
     
+      <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
+    
       <category term="163" scheme="http://wxnn.org/tags/163/"/>
     
       <category term="email" scheme="http://wxnn.org/tags/email/"/>
-    
-      <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
     
       <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
     
@@ -2348,9 +2347,9 @@ blog加上了twitter		</title>
       <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
     
     
-      <category term="Seo" scheme="http://wxnn.org/tags/Seo/"/>
-    
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="Seo" scheme="http://wxnn.org/tags/Seo/"/>
     
   </entry>
   
@@ -2377,9 +2376,9 @@ blog加上了twitter		</title>
       <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
     
     
-      <category term="Wordpress" scheme="http://wxnn.org/tags/Wordpress/"/>
-    
       <category term="iis" scheme="http://wxnn.org/tags/iis/"/>
+    
+      <category term="Wordpress" scheme="http://wxnn.org/tags/Wordpress/"/>
     
       <category term="rewrite" scheme="http://wxnn.org/tags/rewrite/"/>
     
@@ -2439,9 +2438,9 @@ hotmail信箱的POP3设置		</title>
       <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
     
     
-      <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
-    
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
     
       <category term="mail" scheme="http://wxnn.org/tags/mail/"/>
     
@@ -3004,9 +3003,9 @@ Wordpress字体的设置		</title>
       <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
     
     
-      <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
-    
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
     
       <category term="windows" scheme="http://wxnn.org/tags/windows/"/>
     
@@ -3035,13 +3034,13 @@ All in One SEO Pack使用说明		</title>
       <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
     
     
+      <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
     
       <category term="Seo" scheme="http://wxnn.org/tags/Seo/"/>
     
       <category term="Wordpress" scheme="http://wxnn.org/tags/Wordpress/"/>
-    
-      <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
   </entry>
   
@@ -3133,9 +3132,9 @@ xrea最新空间申请攻略		</title>
       <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
     
     
-      <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
-    
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
     
       <category term="XREA" scheme="http://wxnn.org/tags/XREA/"/>
     
@@ -3230,9 +3229,9 @@ xrea最新空间申请攻略		</title>
     
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
     
-      <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
-    
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
     
   </entry>
   
@@ -3664,11 +3663,11 @@ Google vs Microsoft		</title>
     
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
     
+      <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
       <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
-    
-      <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
   </entry>
   
@@ -3728,9 +3727,9 @@ firefox,ie杀手?		</title>
       <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
     
-      <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
-    
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
     
       <category term="域名" scheme="http://wxnn.org/tags/%E5%9F%9F%E5%90%8D/"/>
     
@@ -3759,9 +3758,9 @@ firefox,ie杀手?		</title>
       <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
     
-      <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
-    
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
     
   </entry>
   
