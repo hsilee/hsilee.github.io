@@ -18,8 +18,8 @@
   
   <entry>
     <title> iPhone使用OTG方式更新iOS10变砖解决方法		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/iphone-otg-ios10-bricking-solve/"/>
-    <id>http://wxnn.org/数码电脑/iphone-otg-ios10-bricking-solve/</id>
+    <link href="http://wxnn.org/Computer-Digital/iphone-otg-ios10-bricking-solve/"/>
+    <id>http://wxnn.org/Computer-Digital/iphone-otg-ios10-bricking-solve/</id>
     <published>2016-09-15T07:40:55.000Z</published>
     <updated>2019-07-27T03:05:20.026Z</updated>
     
@@ -35,7 +35,7 @@
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
@@ -53,8 +53,8 @@
   <entry>
     <title>
 digitalocean搭建wordpress		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/digitalocean-setup-wordpress/"/>
-    <id>http://wxnn.org/网站建设/digitalocean-setup-wordpress/</id>
+    <link href="http://wxnn.org/Website-building/digitalocean-setup-wordpress/"/>
+    <id>http://wxnn.org/Website-building/digitalocean-setup-wordpress/</id>
     <published>2016-09-03T02:18:27.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -70,7 +70,7 @@ digitalocean搭建wordpress		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
@@ -81,9 +81,9 @@ digitalocean搭建wordpress		</title>
     
       <category term="域名" scheme="http://wxnn.org/tags/%E5%9F%9F%E5%90%8D/"/>
     
-      <category term="mysql" scheme="http://wxnn.org/tags/mysql/"/>
-    
       <category term="linux" scheme="http://wxnn.org/tags/linux/"/>
+    
+      <category term="mysql" scheme="http://wxnn.org/tags/mysql/"/>
     
       <category term="VPS" scheme="http://wxnn.org/tags/VPS/"/>
     
@@ -92,8 +92,8 @@ digitalocean搭建wordpress		</title>
   <entry>
     <title>
 新版Outlook for iOS/Android		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/new-outlook-ios-android/"/>
-    <id>http://wxnn.org/数码电脑/new-outlook-ios-android/</id>
+    <link href="http://wxnn.org/Computer-Digital/new-outlook-ios-android/"/>
+    <id>http://wxnn.org/Computer-Digital/new-outlook-ios-android/</id>
     <published>2015-02-18T10:02:42.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -109,16 +109,16 @@ digitalocean搭建wordpress		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
+    
+      <category term="email" scheme="http://wxnn.org/tags/email/"/>
     
       <category term="Android" scheme="http://wxnn.org/tags/Android/"/>
     
       <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
     
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
-      <category term="email" scheme="http://wxnn.org/tags/email/"/>
     
       <category term="iOS" scheme="http://wxnn.org/tags/iOS/"/>
     
@@ -131,8 +131,8 @@ digitalocean搭建wordpress		</title>
   <entry>
     <title>
 测试用Byword发blog到WordPress		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/byword-publish-blog-wordpress/"/>
-    <id>http://wxnn.org/互联网/byword-publish-blog-wordpress/</id>
+    <link href="http://wxnn.org/Internet/byword-publish-blog-wordpress/"/>
+    <id>http://wxnn.org/Internet/byword-publish-blog-wordpress/</id>
     <published>2015-02-14T01:29:50.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -148,7 +148,7 @@ digitalocean搭建wordpress		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
@@ -166,8 +166,8 @@ digitalocean搭建wordpress		</title>
   <entry>
     <title>
 安卓应用推荐（二）		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/android-apps-recommend-2/"/>
-    <id>http://wxnn.org/数码电脑/android-apps-recommend-2/</id>
+    <link href="http://wxnn.org/Computer-Digital/android-apps-recommend-2/"/>
+    <id>http://wxnn.org/Computer-Digital/android-apps-recommend-2/</id>
     <published>2013-12-17T09:46:24.000Z</published>
     <updated>2019-07-31T01:10:51.455Z</updated>
     
@@ -183,7 +183,7 @@ digitalocean搭建wordpress		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="Android" scheme="http://wxnn.org/tags/Android/"/>
@@ -197,8 +197,8 @@ digitalocean搭建wordpress		</title>
   <entry>
     <title>
 安卓应用推荐（一）		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/android-apps-recommend-1/"/>
-    <id>http://wxnn.org/数码电脑/android-apps-recommend-1/</id>
+    <link href="http://wxnn.org/Computer-Digital/android-apps-recommend-1/"/>
+    <id>http://wxnn.org/Computer-Digital/android-apps-recommend-1/</id>
     <published>2013-12-05T13:47:34.000Z</published>
     <updated>2019-07-27T09:22:04.781Z</updated>
     
@@ -214,7 +214,7 @@ digitalocean搭建wordpress		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="Android" scheme="http://wxnn.org/tags/Android/"/>
@@ -228,8 +228,8 @@ digitalocean搭建wordpress		</title>
   <entry>
     <title>
 试用BBM		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/try-bbm/"/>
-    <id>http://wxnn.org/数码电脑/try-bbm/</id>
+    <link href="http://wxnn.org/Computer-Digital/try-bbm/"/>
+    <id>http://wxnn.org/Computer-Digital/try-bbm/</id>
     <published>2013-10-24T02:25:17.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -245,7 +245,7 @@ digitalocean搭建wordpress		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="Android" scheme="http://wxnn.org/tags/Android/"/>
@@ -263,8 +263,8 @@ digitalocean搭建wordpress		</title>
   <entry>
     <title>
 调整win7的桌面图标大小		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/revise-win7-desktop-icon/"/>
-    <id>http://wxnn.org/数码电脑/revise-win7-desktop-icon/</id>
+    <link href="http://wxnn.org/Computer-Digital/revise-win7-desktop-icon/"/>
+    <id>http://wxnn.org/Computer-Digital/revise-win7-desktop-icon/</id>
     <published>2013-09-28T06:04:20.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -280,7 +280,7 @@ digitalocean搭建wordpress		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
@@ -296,8 +296,8 @@ digitalocean搭建wordpress		</title>
   <entry>
     <title>
 zol下载器植入木马劫持浏览器		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/zol-hao123-39005028/"/>
-    <id>http://wxnn.org/数码电脑/zol-hao123-39005028/</id>
+    <link href="http://wxnn.org/Computer-Digital/zol-hao123-39005028/"/>
+    <id>http://wxnn.org/Computer-Digital/zol-hao123-39005028/</id>
     <published>2013-09-22T12:23:27.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -313,7 +313,7 @@ zol下载器植入木马劫持浏览器		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
@@ -327,8 +327,8 @@ zol下载器植入木马劫持浏览器		</title>
   <entry>
     <title>
 购买justhost主机及退款		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/justhost-purchase-and-refund-experience/"/>
-    <id>http://wxnn.org/网站建设/justhost-purchase-and-refund-experience/</id>
+    <link href="http://wxnn.org/Website-building/justhost-purchase-and-refund-experience/"/>
+    <id>http://wxnn.org/Website-building/justhost-purchase-and-refund-experience/</id>
     <published>2013-09-17T06:59:08.000Z</published>
     <updated>2019-07-27T08:51:55.626Z</updated>
     
@@ -344,7 +344,7 @@ zol下载器植入木马劫持浏览器		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="Wordpress" scheme="http://wxnn.org/tags/Wordpress/"/>
@@ -358,8 +358,8 @@ zol下载器植入木马劫持浏览器		</title>
   <entry>
     <title>
 修整博客		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/trim-blog/"/>
-    <id>http://wxnn.org/网站建设/trim-blog/</id>
+    <link href="http://wxnn.org/Website-building/trim-blog/"/>
+    <id>http://wxnn.org/Website-building/trim-blog/</id>
     <published>2013-09-14T08:00:00.000Z</published>
     <updated>2019-07-27T09:00:26.520Z</updated>
     
@@ -375,7 +375,7 @@ zol下载器植入木马劫持浏览器		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
@@ -391,8 +391,8 @@ zol下载器植入木马劫持浏览器		</title>
   <entry>
     <title>
 更换godaddy自助建站绑定的域名		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/changing-your-domain-in-website-builder/"/>
-    <id>http://wxnn.org/网站建设/changing-your-domain-in-website-builder/</id>
+    <link href="http://wxnn.org/Website-building/changing-your-domain-in-website-builder/"/>
+    <id>http://wxnn.org/Website-building/changing-your-domain-in-website-builder/</id>
     <published>2013-09-12T21:28:08.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -408,7 +408,7 @@ zol下载器植入木马劫持浏览器		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -422,8 +422,8 @@ zol下载器植入木马劫持浏览器		</title>
   <entry>
     <title>
 收了一个com的域名		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/buy-a-domain-names-with-com/"/>
-    <id>http://wxnn.org/互联网/buy-a-domain-names-with-com/</id>
+    <link href="http://wxnn.org/Internet/buy-a-domain-names-with-com/"/>
+    <id>http://wxnn.org/Internet/buy-a-domain-names-with-com/</id>
     <published>2013-09-11T12:06:31.000Z</published>
     <updated>2019-07-27T09:30:08.911Z</updated>
     
@@ -439,7 +439,7 @@ zol下载器植入木马劫持浏览器		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -453,8 +453,8 @@ zol下载器植入木马劫持浏览器		</title>
   <entry>
     <title>
 充电		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/charging/"/>
-    <id>http://wxnn.org/数码电脑/charging/</id>
+    <link href="http://wxnn.org/Computer-Digital/charging/"/>
+    <id>http://wxnn.org/Computer-Digital/charging/</id>
     <published>2013-09-09T12:45:23.000Z</published>
     <updated>2019-07-27T09:31:07.879Z</updated>
     
@@ -470,7 +470,7 @@ zol下载器植入木马劫持浏览器		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
@@ -486,8 +486,8 @@ zol下载器植入木马劫持浏览器		</title>
   <entry>
     <title>
 很想去野营		</title>
-    <link href="http://wxnn.org/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/want-to-go-camping/"/>
-    <id>http://wxnn.org/无心呢喃/want-to-go-camping/</id>
+    <link href="http://wxnn.org/Whisper/want-to-go-camping/"/>
+    <id>http://wxnn.org/Whisper/want-to-go-camping/</id>
     <published>2013-09-07T16:39:12.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -503,7 +503,7 @@ zol下载器植入木马劫持浏览器		</title>
     
     </summary>
     
-      <category term="无心呢喃" scheme="http://wxnn.org/categories/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/"/>
+      <category term="无心呢喃" scheme="http://wxnn.org/categories/Whisper/"/>
     
     
       <category term="户外" scheme="http://wxnn.org/tags/%E6%88%B7%E5%A4%96/"/>
@@ -513,8 +513,8 @@ zol下载器植入木马劫持浏览器		</title>
   <entry>
     <title>
 网盘大战		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/network-disk-war/"/>
-    <id>http://wxnn.org/互联网/network-disk-war/</id>
+    <link href="http://wxnn.org/Internet/network-disk-war/"/>
+    <id>http://wxnn.org/Internet/network-disk-war/</id>
     <published>2013-09-06T07:41:54.000Z</published>
     <updated>2019-07-27T08:57:12.291Z</updated>
     
@@ -530,7 +530,7 @@ zol下载器植入木马劫持浏览器		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -540,8 +540,8 @@ zol下载器植入木马劫持浏览器		</title>
   <entry>
     <title>
 渐渐逝去的黑莓		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/disappearing-blackberry/"/>
-    <id>http://wxnn.org/数码电脑/disappearing-blackberry/</id>
+    <link href="http://wxnn.org/Computer-Digital/disappearing-blackberry/"/>
+    <id>http://wxnn.org/Computer-Digital/disappearing-blackberry/</id>
     <published>2012-08-30T04:47:37.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -557,7 +557,7 @@ zol下载器植入木马劫持浏览器		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
@@ -569,8 +569,8 @@ zol下载器植入木马劫持浏览器		</title>
   <entry>
     <title>
 新攒了一台电脑		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/diy-a-new-computer/"/>
-    <id>http://wxnn.org/数码电脑/diy-a-new-computer/</id>
+    <link href="http://wxnn.org/Computer-Digital/diy-a-new-computer/"/>
+    <id>http://wxnn.org/Computer-Digital/diy-a-new-computer/</id>
     <published>2012-02-20T19:36:31.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -586,7 +586,7 @@ zol下载器植入木马劫持浏览器		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="电脑" scheme="http://wxnn.org/tags/%E7%94%B5%E8%84%91/"/>
@@ -596,8 +596,8 @@ zol下载器植入木马劫持浏览器		</title>
   <entry>
     <title>
 年终总结		</title>
-    <link href="http://wxnn.org/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/year-end-summary/"/>
-    <id>http://wxnn.org/无心呢喃/year-end-summary/</id>
+    <link href="http://wxnn.org/Whisper/year-end-summary/"/>
+    <id>http://wxnn.org/Whisper/year-end-summary/</id>
     <published>2011-12-31T11:10:40.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -613,7 +613,7 @@ zol下载器植入木马劫持浏览器		</title>
     
     </summary>
     
-      <category term="无心呢喃" scheme="http://wxnn.org/categories/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/"/>
+      <category term="无心呢喃" scheme="http://wxnn.org/categories/Whisper/"/>
     
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
@@ -628,8 +628,8 @@ zol下载器植入木马劫持浏览器		</title>
     <title>
 windows 7 家庭普通版
 启用Administrator超级管理员账户		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/windows-7-home-basic-enabled-administrator/"/>
-    <id>http://wxnn.org/数码电脑/windows-7-home-basic-enabled-administrator/</id>
+    <link href="http://wxnn.org/Computer-Digital/windows-7-home-basic-enabled-administrator/"/>
+    <id>http://wxnn.org/Computer-Digital/windows-7-home-basic-enabled-administrator/</id>
     <published>2011-07-15T08:53:48.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -645,7 +645,7 @@ windows 7 家庭普通版
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="微软" scheme="http://wxnn.org/tags/%E5%BE%AE%E8%BD%AF/"/>
@@ -657,8 +657,8 @@ windows 7 家庭普通版
   <entry>
     <title>
 自动更换论坛头像		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/automatic-replacement-of-forum-avatar/"/>
-    <id>http://wxnn.org/互联网/automatic-replacement-of-forum-avatar/</id>
+    <link href="http://wxnn.org/Internet/automatic-replacement-of-forum-avatar/"/>
+    <id>http://wxnn.org/Internet/automatic-replacement-of-forum-avatar/</id>
     <published>2011-03-17T09:08:41.000Z</published>
     <updated>2019-07-27T09:25:26.372Z</updated>
     
@@ -674,7 +674,7 @@ windows 7 家庭普通版
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="技巧" scheme="http://wxnn.org/tags/%E6%8A%80%E5%B7%A7/"/>
@@ -684,8 +684,8 @@ windows 7 家庭普通版
   <entry>
     <title>
 删除gmail邮件		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/dell-gmails-mail/"/>
-    <id>http://wxnn.org/互联网/dell-gmails-mail/</id>
+    <link href="http://wxnn.org/Internet/dell-gmails-mail/"/>
+    <id>http://wxnn.org/Internet/dell-gmails-mail/</id>
     <published>2011-03-06T13:52:37.000Z</published>
     <updated>2019-07-27T09:33:35.278Z</updated>
     
@@ -701,7 +701,7 @@ windows 7 家庭普通版
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
@@ -714,8 +714,8 @@ windows 7 家庭普通版
     <title>
 跨平台免费密码管理软件
 KeePass Password Safe		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/keepass-password-safe-blackberry/"/>
-    <id>http://wxnn.org/数码电脑/keepass-password-safe-blackberry/</id>
+    <link href="http://wxnn.org/Computer-Digital/keepass-password-safe-blackberry/"/>
+    <id>http://wxnn.org/Computer-Digital/keepass-password-safe-blackberry/</id>
     <published>2011-03-01T14:26:06.000Z</published>
     <updated>2019-07-27T08:52:14.321Z</updated>
     
@@ -731,7 +731,7 @@ KeePass Password Safe		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
@@ -745,8 +745,8 @@ KeePass Password Safe		</title>
   <entry>
     <title>
 google的chrome浏览器版本(分支)说明		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/google-chrome-browser-version-explanation/"/>
-    <id>http://wxnn.org/互联网/google-chrome-browser-version-explanation/</id>
+    <link href="http://wxnn.org/Internet/google-chrome-browser-version-explanation/"/>
+    <id>http://wxnn.org/Internet/google-chrome-browser-version-explanation/</id>
     <published>2011-02-22T14:21:49.000Z</published>
     <updated>2019-07-27T08:45:50.632Z</updated>
     
@@ -762,7 +762,7 @@ google的chrome浏览器版本(分支)说明		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
@@ -776,8 +776,8 @@ google的chrome浏览器版本(分支)说明		</title>
   <entry>
     <title>
 新浪取消第三方微博同步工具		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/sina-microblog-freeze-api/"/>
-    <id>http://wxnn.org/互联网/sina-microblog-freeze-api/</id>
+    <link href="http://wxnn.org/Internet/sina-microblog-freeze-api/"/>
+    <id>http://wxnn.org/Internet/sina-microblog-freeze-api/</id>
     <published>2011-02-20T14:28:42.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -793,7 +793,7 @@ google的chrome浏览器版本(分支)说明		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="twitter" scheme="http://wxnn.org/tags/twitter/"/>
@@ -805,8 +805,8 @@ google的chrome浏览器版本(分支)说明		</title>
   <entry>
     <title>
 情人节礼物的含义		</title>
-    <link href="http://wxnn.org/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/valentines-day-gift/"/>
-    <id>http://wxnn.org/无心呢喃/valentines-day-gift/</id>
+    <link href="http://wxnn.org/Whisper/valentines-day-gift/"/>
+    <id>http://wxnn.org/Whisper/valentines-day-gift/</id>
     <published>2011-02-13T15:38:45.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -822,7 +822,7 @@ google的chrome浏览器版本(分支)说明		</title>
     
     </summary>
     
-      <category term="无心呢喃" scheme="http://wxnn.org/categories/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/"/>
+      <category term="无心呢喃" scheme="http://wxnn.org/categories/Whisper/"/>
     
     
       <category term="情人节" scheme="http://wxnn.org/tags/%E6%83%85%E4%BA%BA%E8%8A%82/"/>
@@ -834,8 +834,8 @@ google的chrome浏览器版本(分支)说明		</title>
   <entry>
     <title>
 活在春天里		</title>
-    <link href="http://wxnn.org/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/live-in-the-spring/"/>
-    <id>http://wxnn.org/无心呢喃/live-in-the-spring/</id>
+    <link href="http://wxnn.org/Whisper/live-in-the-spring/"/>
+    <id>http://wxnn.org/Whisper/live-in-the-spring/</id>
     <published>2011-02-10T15:54:20.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -851,7 +851,7 @@ google的chrome浏览器版本(分支)说明		</title>
     
     </summary>
     
-      <category term="无心呢喃" scheme="http://wxnn.org/categories/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/"/>
+      <category term="无心呢喃" scheme="http://wxnn.org/categories/Whisper/"/>
     
     
       <category term="生活" scheme="http://wxnn.org/tags/%E7%94%9F%E6%B4%BB/"/>
@@ -863,8 +863,8 @@ google的chrome浏览器版本(分支)说明		</title>
   <entry>
     <title>
 个人网站何去何从?		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/personal-website-future/"/>
-    <id>http://wxnn.org/网站建设/personal-website-future/</id>
+    <link href="http://wxnn.org/Website-building/personal-website-future/"/>
+    <id>http://wxnn.org/Website-building/personal-website-future/</id>
     <published>2011-02-05T15:10:14.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -880,7 +880,7 @@ google的chrome浏览器版本(分支)说明		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
@@ -894,8 +894,8 @@ google的chrome浏览器版本(分支)说明		</title>
   <entry>
     <title>
 打算建立一个纯粹私人站点		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/build-private-site/"/>
-    <id>http://wxnn.org/网站建设/build-private-site/</id>
+    <link href="http://wxnn.org/Website-building/build-private-site/"/>
+    <id>http://wxnn.org/Website-building/build-private-site/</id>
     <published>2011-02-04T13:07:08.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -911,7 +911,7 @@ google的chrome浏览器版本(分支)说明		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
@@ -925,8 +925,8 @@ google的chrome浏览器版本(分支)说明		</title>
   <entry>
     <title>
 小偷网站的末日?		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/death-for-the-site-thief/"/>
-    <id>http://wxnn.org/网站建设/death-for-the-site-thief/</id>
+    <link href="http://wxnn.org/Website-building/death-for-the-site-thief/"/>
+    <id>http://wxnn.org/Website-building/death-for-the-site-thief/</id>
     <published>2011-01-31T05:55:02.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -942,7 +942,7 @@ google的chrome浏览器版本(分支)说明		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
@@ -954,8 +954,8 @@ google的chrome浏览器版本(分支)说明		</title>
   <entry>
     <title>
 152vs120		</title>
-    <link href="http://wxnn.org/%E4%BD%93%E8%82%B2/152vs120/"/>
-    <id>http://wxnn.org/体育/152vs120/</id>
+    <link href="http://wxnn.org/Sports/152vs120/"/>
+    <id>http://wxnn.org/Sports/152vs120/</id>
     <published>2011-01-30T07:37:26.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -971,7 +971,7 @@ google的chrome浏览器版本(分支)说明		</title>
     
     </summary>
     
-      <category term="体育" scheme="http://wxnn.org/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://wxnn.org/categories/Sports/"/>
     
     
       <category term="NBA" scheme="http://wxnn.org/tags/NBA/"/>
@@ -985,8 +985,8 @@ google的chrome浏览器版本(分支)说明		</title>
   <entry>
     <title>
 bluehost空间申请免费SSH及搭建		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/bluehost-ssh-sftp/"/>
-    <id>http://wxnn.org/网站建设/bluehost-ssh-sftp/</id>
+    <link href="http://wxnn.org/Website-building/bluehost-ssh-sftp/"/>
+    <id>http://wxnn.org/Website-building/bluehost-ssh-sftp/</id>
     <published>2011-01-28T18:30:52.000Z</published>
     <updated>2019-07-27T09:28:56.320Z</updated>
     
@@ -1002,12 +1002,12 @@ bluehost空间申请免费SSH及搭建		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
-    
-      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
     
       <category term="chrome" scheme="http://wxnn.org/tags/chrome/"/>
     
@@ -1018,8 +1018,8 @@ bluehost空间申请免费SSH及搭建		</title>
   <entry>
     <title>
 给blog日志重新做了分类		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/reclassification-blog/"/>
-    <id>http://wxnn.org/网站建设/reclassification-blog/</id>
+    <link href="http://wxnn.org/Website-building/reclassification-blog/"/>
+    <id>http://wxnn.org/Website-building/reclassification-blog/</id>
     <published>2011-01-28T11:17:29.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1035,7 +1035,7 @@ bluehost空间申请免费SSH及搭建		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
@@ -1045,8 +1045,8 @@ bluehost空间申请免费SSH及搭建		</title>
   <entry>
     <title>
 谁来保护我们的信息		</title>
-    <link href="http://wxnn.org/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/who-protect-our-information/"/>
-    <id>http://wxnn.org/无心呢喃/who-protect-our-information/</id>
+    <link href="http://wxnn.org/Whisper/who-protect-our-information/"/>
+    <id>http://wxnn.org/Whisper/who-protect-our-information/</id>
     <published>2011-01-26T09:47:55.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1062,7 +1062,7 @@ bluehost空间申请免费SSH及搭建		</title>
     
     </summary>
     
-      <category term="无心呢喃" scheme="http://wxnn.org/categories/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/"/>
+      <category term="无心呢喃" scheme="http://wxnn.org/categories/Whisper/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -1078,8 +1078,8 @@ bluehost空间申请免费SSH及搭建		</title>
   <entry>
     <title>
 关于verycd关闭影视下载		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/verycd-download-close/"/>
-    <id>http://wxnn.org/互联网/verycd-download-close/</id>
+    <link href="http://wxnn.org/Internet/verycd-download-close/"/>
+    <id>http://wxnn.org/Internet/verycd-download-close/</id>
     <published>2011-01-25T12:14:26.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1095,7 +1095,7 @@ bluehost空间申请免费SSH及搭建		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -1111,8 +1111,8 @@ bluehost空间申请免费SSH及搭建		</title>
   <entry>
     <title>
 在bluehost安家了		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/bluehost-blog-hosting-wordpress/"/>
-    <id>http://wxnn.org/网站建设/bluehost-blog-hosting-wordpress/</id>
+    <link href="http://wxnn.org/Website-building/bluehost-blog-hosting-wordpress/"/>
+    <id>http://wxnn.org/Website-building/bluehost-blog-hosting-wordpress/</id>
     <published>2011-01-24T08:56:10.000Z</published>
     <updated>2019-07-27T09:26:59.221Z</updated>
     
@@ -1128,7 +1128,7 @@ bluehost空间申请免费SSH及搭建		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
@@ -1142,8 +1142,8 @@ bluehost空间申请免费SSH及搭建		</title>
   <entry>
     <title>
 PingChat-黑莓上的push聊天软件.		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/pingchat-blackberry-push-im/"/>
-    <id>http://wxnn.org/数码电脑/pingchat-blackberry-push-im/</id>
+    <link href="http://wxnn.org/Computer-Digital/pingchat-blackberry-push-im/"/>
+    <id>http://wxnn.org/Computer-Digital/pingchat-blackberry-push-im/</id>
     <published>2010-08-24T08:02:58.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1159,7 +1159,7 @@ PingChat-黑莓上的push聊天软件.		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="黑莓" scheme="http://wxnn.org/tags/%E9%BB%91%E8%8E%93/"/>
@@ -1177,8 +1177,8 @@ PingChat-黑莓上的push聊天软件.		</title>
   <entry>
     <title>
 细搜天气壁纸版		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/seasou663/"/>
-    <id>http://wxnn.org/数码电脑/seasou663/</id>
+    <link href="http://wxnn.org/Computer-Digital/seasou663/"/>
+    <id>http://wxnn.org/Computer-Digital/seasou663/</id>
     <published>2010-07-17T16:23:57.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1194,7 +1194,7 @@ PingChat-黑莓上的push聊天软件.		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
@@ -1208,8 +1208,8 @@ PingChat-黑莓上的push聊天软件.		</title>
   <entry>
     <title>
 巅峰对决-德阿大战		</title>
-    <link href="http://wxnn.org/%E4%BD%93%E8%82%B2/the-warbetween-germany-argentina/"/>
-    <id>http://wxnn.org/体育/the-warbetween-germany-argentina/</id>
+    <link href="http://wxnn.org/Sports/the-warbetween-germany-argentina/"/>
+    <id>http://wxnn.org/Sports/the-warbetween-germany-argentina/</id>
     <published>2010-06-28T18:02:23.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1225,7 +1225,7 @@ PingChat-黑莓上的push聊天软件.		</title>
     
     </summary>
     
-      <category term="体育" scheme="http://wxnn.org/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://wxnn.org/categories/Sports/"/>
     
     
       <category term="足球" scheme="http://wxnn.org/tags/%E8%B6%B3%E7%90%83/"/>
@@ -1241,8 +1241,8 @@ PingChat-黑莓上的push聊天软件.		</title>
   <entry>
     <title>
 最后一战-写在湖人抢七之前		</title>
-    <link href="http://wxnn.org/%E4%BD%93%E8%82%B2/lakers-have-to-win/"/>
-    <id>http://wxnn.org/体育/lakers-have-to-win/</id>
+    <link href="http://wxnn.org/Sports/lakers-have-to-win/"/>
+    <id>http://wxnn.org/Sports/lakers-have-to-win/</id>
     <published>2010-06-17T14:47:52.000Z</published>
     <updated>2019-07-27T08:53:24.949Z</updated>
     
@@ -1258,7 +1258,7 @@ PingChat-黑莓上的push聊天软件.		</title>
     
     </summary>
     
-      <category term="体育" scheme="http://wxnn.org/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://wxnn.org/categories/Sports/"/>
     
     
       <category term="NBA" scheme="http://wxnn.org/tags/NBA/"/>
@@ -1274,8 +1274,8 @@ PingChat-黑莓上的push聊天软件.		</title>
   <entry>
     <title>
 失掉天王山,还有天使城		</title>
-    <link href="http://wxnn.org/%E4%BD%93%E8%82%B2/lose-king-hill-have-angel-city/"/>
-    <id>http://wxnn.org/体育/lose-king-hill-have-angel-city/</id>
+    <link href="http://wxnn.org/Sports/lose-king-hill-have-angel-city/"/>
+    <id>http://wxnn.org/Sports/lose-king-hill-have-angel-city/</id>
     <published>2010-06-14T03:54:27.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1291,7 +1291,7 @@ PingChat-黑莓上的push聊天软件.		</title>
     
     </summary>
     
-      <category term="体育" scheme="http://wxnn.org/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://wxnn.org/categories/Sports/"/>
     
     
       <category term="NBA" scheme="http://wxnn.org/tags/NBA/"/>
@@ -1307,8 +1307,8 @@ PingChat-黑莓上的push聊天软件.		</title>
   <entry>
     <title>
 宿命对决-当紫金遇到那片绿		</title>
-    <link href="http://wxnn.org/%E4%BD%93%E8%82%B2/fate-duel-finals/"/>
-    <id>http://wxnn.org/体育/fate-duel-finals/</id>
+    <link href="http://wxnn.org/Sports/fate-duel-finals/"/>
+    <id>http://wxnn.org/Sports/fate-duel-finals/</id>
     <published>2010-06-03T23:10:32.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1324,7 +1324,7 @@ PingChat-黑莓上的push聊天软件.		</title>
     
     </summary>
     
-      <category term="体育" scheme="http://wxnn.org/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://wxnn.org/categories/Sports/"/>
     
     
       <category term="NBA" scheme="http://wxnn.org/tags/NBA/"/>
@@ -1340,8 +1340,8 @@ PingChat-黑莓上的push聊天软件.		</title>
   <entry>
     <title>
 blog服务器出问题了		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/blog-server-error/"/>
-    <id>http://wxnn.org/网站建设/blog-server-error/</id>
+    <link href="http://wxnn.org/Website-building/blog-server-error/"/>
+    <id>http://wxnn.org/Website-building/blog-server-error/</id>
     <published>2010-05-30T16:28:50.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1357,7 +1357,7 @@ blog服务器出问题了		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
@@ -1369,8 +1369,8 @@ blog服务器出问题了		</title>
   <entry>
     <title>
 最简单的隐藏文件方法		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/easy-hide-file/"/>
-    <id>http://wxnn.org/数码电脑/easy-hide-file/</id>
+    <link href="http://wxnn.org/Computer-Digital/easy-hide-file/"/>
+    <id>http://wxnn.org/Computer-Digital/easy-hide-file/</id>
     <published>2010-04-11T05:15:02.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1386,7 +1386,7 @@ blog服务器出问题了		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
@@ -1400,8 +1400,8 @@ blog服务器出问题了		</title>
   <entry>
     <title>
 黑莓手机必装软件之quicklaunch		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/blackberry-software-quicklaunch/"/>
-    <id>http://wxnn.org/数码电脑/blackberry-software-quicklaunch/</id>
+    <link href="http://wxnn.org/Computer-Digital/blackberry-software-quicklaunch/"/>
+    <id>http://wxnn.org/Computer-Digital/blackberry-software-quicklaunch/</id>
     <published>2010-04-04T05:11:54.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1417,7 +1417,7 @@ blog服务器出问题了		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
@@ -1431,8 +1431,8 @@ blog服务器出问题了		</title>
   <entry>
     <title>
 黑莓上的自然码输入法(自动图文集)		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/blackberry-ziranma-input/"/>
-    <id>http://wxnn.org/数码电脑/blackberry-ziranma-input/</id>
+    <link href="http://wxnn.org/Computer-Digital/blackberry-ziranma-input/"/>
+    <id>http://wxnn.org/Computer-Digital/blackberry-ziranma-input/</id>
     <published>2010-03-27T05:08:12.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1448,7 +1448,7 @@ blog服务器出问题了		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="黑莓" scheme="http://wxnn.org/tags/%E9%BB%91%E8%8E%93/"/>
@@ -1463,8 +1463,8 @@ blog服务器出问题了		</title>
     <title>
 黑莓
 8900升级5.0 OS(5.0.0.461)经验		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/blackberry-8900-500461os/"/>
-    <id>http://wxnn.org/数码电脑/blackberry-8900-500461os/</id>
+    <link href="http://wxnn.org/Computer-Digital/blackberry-8900-500461os/"/>
+    <id>http://wxnn.org/Computer-Digital/blackberry-8900-500461os/</id>
     <published>2010-03-25T04:37:20.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1480,7 +1480,7 @@ blog服务器出问题了		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
@@ -1496,8 +1496,8 @@ blog服务器出问题了		</title>
   <entry>
     <title>
 1983年的鼠标		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/1983s-mouse/"/>
-    <id>http://wxnn.org/数码电脑/1983s-mouse/</id>
+    <link href="http://wxnn.org/Computer-Digital/1983s-mouse/"/>
+    <id>http://wxnn.org/Computer-Digital/1983s-mouse/</id>
     <published>2010-03-09T04:31:16.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1513,7 +1513,7 @@ blog服务器出问题了		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="微软" scheme="http://wxnn.org/tags/%E5%BE%AE%E8%BD%AF/"/>
@@ -1525,8 +1525,8 @@ blog服务器出问题了		</title>
   <entry>
     <title>
 icq7中文版		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/icq7-chinese/"/>
-    <id>http://wxnn.org/互联网/icq7-chinese/</id>
+    <link href="http://wxnn.org/Internet/icq7-chinese/"/>
+    <id>http://wxnn.org/Internet/icq7-chinese/</id>
     <published>2010-01-21T04:28:11.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1542,12 +1542,12 @@ icq7中文版		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
-    
-      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
     
       <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
+    
+      <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
     
       <category term="QQ" scheme="http://wxnn.org/tags/QQ/"/>
     
@@ -1558,8 +1558,8 @@ icq7中文版		</title>
   <entry>
     <title>
 google 选择不离开中国		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/google-not-leave-china/"/>
-    <id>http://wxnn.org/互联网/google-not-leave-china/</id>
+    <link href="http://wxnn.org/Internet/google-not-leave-china/"/>
+    <id>http://wxnn.org/Internet/google-not-leave-china/</id>
     <published>2010-01-19T18:22:24.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1575,12 +1575,12 @@ google 选择不离开中国		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
-    
-      <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
     
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
+    
+      <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
     
       <category term="应用" scheme="http://wxnn.org/tags/%E5%BA%94%E7%94%A8/"/>
     
@@ -1589,8 +1589,8 @@ google 选择不离开中国		</title>
   <entry>
     <title>
 163邮箱正在走向落寞		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/163-email-to-failure/"/>
-    <id>http://wxnn.org/互联网/163-email-to-failure/</id>
+    <link href="http://wxnn.org/Internet/163-email-to-failure/"/>
+    <id>http://wxnn.org/Internet/163-email-to-failure/</id>
     <published>2009-12-23T11:19:01.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1606,7 +1606,7 @@ google 选择不离开中国		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="163" scheme="http://wxnn.org/tags/163/"/>
@@ -1625,8 +1625,8 @@ google 选择不离开中国		</title>
     <title>
 手机搜索应用
 Google Goggles		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/mobile-google-goggles/"/>
-    <id>http://wxnn.org/互联网/mobile-google-goggles/</id>
+    <link href="http://wxnn.org/Internet/mobile-google-goggles/"/>
+    <id>http://wxnn.org/Internet/mobile-google-goggles/</id>
     <published>2009-12-10T04:16:33.000Z</published>
     <updated>2019-07-27T08:54:30.515Z</updated>
     
@@ -1642,14 +1642,14 @@ Google Goggles		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
-    
-      <category term="Android" scheme="http://wxnn.org/tags/Android/"/>
     
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="Android" scheme="http://wxnn.org/tags/Android/"/>
     
       <category term="Gps" scheme="http://wxnn.org/tags/Gps/"/>
     
@@ -1658,8 +1658,8 @@ Google Goggles		</title>
   <entry>
     <title>
 中国移动推出手机阅读网站		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/china-mobile-read-onlin/"/>
-    <id>http://wxnn.org/互联网/china-mobile-read-onlin/</id>
+    <link href="http://wxnn.org/Internet/china-mobile-read-onlin/"/>
+    <id>http://wxnn.org/Internet/china-mobile-read-onlin/</id>
     <published>2009-12-06T13:26:08.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1675,7 +1675,7 @@ Google Goggles		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
@@ -1685,8 +1685,8 @@ Google Goggles		</title>
   <entry>
     <title>
 手机的未来		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/future-mobile/"/>
-    <id>http://wxnn.org/数码电脑/future-mobile/</id>
+    <link href="http://wxnn.org/Computer-Digital/future-mobile/"/>
+    <id>http://wxnn.org/Computer-Digital/future-mobile/</id>
     <published>2009-11-29T16:42:33.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1702,12 +1702,12 @@ Google Goggles		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
-    
-      <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
     
       <category term="email" scheme="http://wxnn.org/tags/email/"/>
+    
+      <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
     
       <category term="黑莓" scheme="http://wxnn.org/tags/%E9%BB%91%E8%8E%93/"/>
     
@@ -1718,8 +1718,8 @@ Google Goggles		</title>
   <entry>
     <title>
 google文档另类应用		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/google-docs/"/>
-    <id>http://wxnn.org/互联网/google-docs/</id>
+    <link href="http://wxnn.org/Internet/google-docs/"/>
+    <id>http://wxnn.org/Internet/google-docs/</id>
     <published>2009-11-23T17:19:39.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1735,7 +1735,7 @@ google文档另类应用		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
@@ -1745,8 +1745,8 @@ google文档另类应用		</title>
   <entry>
     <title>
 opera mini国际版屏蔽中国用户		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/opera-mini-international/"/>
-    <id>http://wxnn.org/互联网/opera-mini-international/</id>
+    <link href="http://wxnn.org/Internet/opera-mini-international/"/>
+    <id>http://wxnn.org/Internet/opera-mini-international/</id>
     <published>2009-11-21T06:41:58.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1762,7 +1762,7 @@ opera mini国际版屏蔽中国用户		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="opera" scheme="http://wxnn.org/tags/opera/"/>
@@ -1772,8 +1772,8 @@ opera mini国际版屏蔽中国用户		</title>
   <entry>
     <title>
 Chrome浏览器支持第三方插件		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/chrome-plugin/"/>
-    <id>http://wxnn.org/互联网/chrome-plugin/</id>
+    <link href="http://wxnn.org/Internet/chrome-plugin/"/>
+    <id>http://wxnn.org/Internet/chrome-plugin/</id>
     <published>2009-09-09T16:45:27.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1789,7 +1789,7 @@ Chrome浏览器支持第三方插件		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="chrome" scheme="http://wxnn.org/tags/chrome/"/>
@@ -1803,8 +1803,8 @@ Chrome浏览器支持第三方插件		</title>
   <entry>
     <title>
 彩虹2009		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/rainbow-2009/"/>
-    <id>http://wxnn.org/互联网/rainbow-2009/</id>
+    <link href="http://wxnn.org/Internet/rainbow-2009/"/>
+    <id>http://wxnn.org/Internet/rainbow-2009/</id>
     <published>2009-07-26T16:18:59.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1820,7 +1820,7 @@ Chrome浏览器支持第三方插件		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
@@ -1834,8 +1834,8 @@ Chrome浏览器支持第三方插件		</title>
   <entry>
     <title>
 没有ie浏览器的欧洲用户怎样上互联网		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/no-ie/"/>
-    <id>http://wxnn.org/互联网/no-ie/</id>
+    <link href="http://wxnn.org/Internet/no-ie/"/>
+    <id>http://wxnn.org/Internet/no-ie/</id>
     <published>2009-07-09T15:29:25.000Z</published>
     <updated>2019-07-27T08:57:47.620Z</updated>
     
@@ -1851,7 +1851,7 @@ Chrome浏览器支持第三方插件		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="浏览器" scheme="http://wxnn.org/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
@@ -1863,8 +1863,8 @@ Chrome浏览器支持第三方插件		</title>
   <entry>
     <title>
 谁会动那只肥企鹅?		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/fatty-penguin/"/>
-    <id>http://wxnn.org/互联网/fatty-penguin/</id>
+    <link href="http://wxnn.org/Internet/fatty-penguin/"/>
+    <id>http://wxnn.org/Internet/fatty-penguin/</id>
     <published>2009-06-26T13:51:34.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1880,7 +1880,7 @@ Chrome浏览器支持第三方插件		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="QQ" scheme="http://wxnn.org/tags/QQ/"/>
@@ -1890,8 +1890,8 @@ Chrome浏览器支持第三方插件		</title>
   <entry>
     <title>
 Opera Unite,真正的网络共享		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/opera-unite/"/>
-    <id>http://wxnn.org/互联网/opera-unite/</id>
+    <link href="http://wxnn.org/Internet/opera-unite/"/>
+    <id>http://wxnn.org/Internet/opera-unite/</id>
     <published>2009-06-17T16:20:17.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1907,7 +1907,7 @@ Opera Unite,真正的网络共享		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="浏览器" scheme="http://wxnn.org/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
@@ -1919,8 +1919,8 @@ Opera Unite,真正的网络共享		</title>
   <entry>
     <title>
 永远不要低估一颗冠军的心		</title>
-    <link href="http://wxnn.org/%E4%BD%93%E8%82%B2/lakers-magic-4/"/>
-    <id>http://wxnn.org/体育/lakers-magic-4/</id>
+    <link href="http://wxnn.org/Sports/lakers-magic-4/"/>
+    <id>http://wxnn.org/Sports/lakers-magic-4/</id>
     <published>2009-06-13T17:23:26.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1936,7 +1936,7 @@ Opera Unite,真正的网络共享		</title>
     
     </summary>
     
-      <category term="体育" scheme="http://wxnn.org/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://wxnn.org/categories/Sports/"/>
     
     
       <category term="NBA" scheme="http://wxnn.org/tags/NBA/"/>
@@ -1948,8 +1948,8 @@ Opera Unite,真正的网络共享		</title>
   <entry>
     <title>
 湖人的第二场总决赛胜利		</title>
-    <link href="http://wxnn.org/%E4%BD%93%E8%82%B2/lakers-magic-2/"/>
-    <id>http://wxnn.org/体育/lakers-magic-2/</id>
+    <link href="http://wxnn.org/Sports/lakers-magic-2/"/>
+    <id>http://wxnn.org/Sports/lakers-magic-2/</id>
     <published>2009-06-09T04:48:51.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1965,7 +1965,7 @@ Opera Unite,真正的网络共享		</title>
     
     </summary>
     
-      <category term="体育" scheme="http://wxnn.org/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://wxnn.org/categories/Sports/"/>
     
     
       <category term="NBA" scheme="http://wxnn.org/tags/NBA/"/>
@@ -1977,8 +1977,8 @@ Opera Unite,真正的网络共享		</title>
   <entry>
     <title>
 总决赛第一场-科比神勇,狂砍40分		</title>
-    <link href="http://wxnn.org/%E4%BD%93%E8%82%B2/lakers-magic-1/"/>
-    <id>http://wxnn.org/体育/lakers-magic-1/</id>
+    <link href="http://wxnn.org/Sports/lakers-magic-1/"/>
+    <id>http://wxnn.org/Sports/lakers-magic-1/</id>
     <published>2009-06-05T04:12:04.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -1994,7 +1994,7 @@ Opera Unite,真正的网络共享		</title>
     
     </summary>
     
-      <category term="体育" scheme="http://wxnn.org/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://wxnn.org/categories/Sports/"/>
     
     
       <category term="NBA" scheme="http://wxnn.org/tags/NBA/"/>
@@ -2010,8 +2010,8 @@ Opera Unite,真正的网络共享		</title>
   <entry>
     <title>
 神奇的科比,漂亮的逆转		</title>
-    <link href="http://wxnn.org/%E4%BD%93%E8%82%B2/kobe-reverse/"/>
-    <id>http://wxnn.org/体育/kobe-reverse/</id>
+    <link href="http://wxnn.org/Sports/kobe-reverse/"/>
+    <id>http://wxnn.org/Sports/kobe-reverse/</id>
     <published>2009-05-24T08:52:45.000Z</published>
     <updated>2019-07-27T08:52:45.976Z</updated>
     
@@ -2027,7 +2027,7 @@ Opera Unite,真正的网络共享		</title>
     
     </summary>
     
-      <category term="体育" scheme="http://wxnn.org/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://wxnn.org/categories/Sports/"/>
     
     
       <category term="NBA" scheme="http://wxnn.org/tags/NBA/"/>
@@ -2041,8 +2041,8 @@ Opera Unite,真正的网络共享		</title>
   <entry>
     <title>
 九城代理的魔兽世界出现可疑补丁		</title>
-    <link href="http://wxnn.org/%E6%B8%B8%E6%88%8F/wow-suspicious-patch/"/>
-    <id>http://wxnn.org/游戏/wow-suspicious-patch/</id>
+    <link href="http://wxnn.org/Game/wow-suspicious-patch/"/>
+    <id>http://wxnn.org/Game/wow-suspicious-patch/</id>
     <published>2009-05-12T09:53:39.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2058,7 +2058,7 @@ Opera Unite,真正的网络共享		</title>
     
     </summary>
     
-      <category term="游戏" scheme="http://wxnn.org/categories/%E6%B8%B8%E6%88%8F/"/>
+      <category term="游戏" scheme="http://wxnn.org/categories/Game/"/>
     
     
       <category term="Blizzard" scheme="http://wxnn.org/tags/Blizzard/"/>
@@ -2070,8 +2070,8 @@ Opera Unite,真正的网络共享		</title>
   <entry>
     <title>
 黑莓8220多媒体的问题		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/blackberry-8220/"/>
-    <id>http://wxnn.org/数码电脑/blackberry-8220/</id>
+    <link href="http://wxnn.org/Computer-Digital/blackberry-8220/"/>
+    <id>http://wxnn.org/Computer-Digital/blackberry-8220/</id>
     <published>2009-04-21T07:48:48.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2087,7 +2087,7 @@ Opera Unite,真正的网络共享		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
@@ -2101,8 +2101,8 @@ Opera Unite,真正的网络共享		</title>
   <entry>
     <title>
 和陌生人说话		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/chat-omegle/"/>
-    <id>http://wxnn.org/互联网/chat-omegle/</id>
+    <link href="http://wxnn.org/Internet/chat-omegle/"/>
+    <id>http://wxnn.org/Internet/chat-omegle/</id>
     <published>2009-04-17T17:04:16.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2118,7 +2118,7 @@ Opera Unite,真正的网络共享		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="omegle" scheme="http://wxnn.org/tags/omegle/"/>
@@ -2128,8 +2128,8 @@ Opera Unite,真正的网络共享		</title>
   <entry>
     <title>
 魔兽在中国的大变动		</title>
-    <link href="http://wxnn.org/%E6%B8%B8%E6%88%8F/wow-china-agent/"/>
-    <id>http://wxnn.org/游戏/wow-china-agent/</id>
+    <link href="http://wxnn.org/Game/wow-china-agent/"/>
+    <id>http://wxnn.org/Game/wow-china-agent/</id>
     <published>2009-04-16T14:48:37.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2145,7 +2145,7 @@ Opera Unite,真正的网络共享		</title>
     
     </summary>
     
-      <category term="游戏" scheme="http://wxnn.org/categories/%E6%B8%B8%E6%88%8F/"/>
+      <category term="游戏" scheme="http://wxnn.org/categories/Game/"/>
     
     
       <category term="WOW" scheme="http://wxnn.org/tags/WOW/"/>
@@ -2155,8 +2155,8 @@ Opera Unite,真正的网络共享		</title>
   <entry>
     <title>
 汉字输入法的思考		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/chinese-input/"/>
-    <id>http://wxnn.org/数码电脑/chinese-input/</id>
+    <link href="http://wxnn.org/Computer-Digital/chinese-input/"/>
+    <id>http://wxnn.org/Computer-Digital/chinese-input/</id>
     <published>2009-04-14T08:41:55.000Z</published>
     <updated>2019-07-27T09:33:10.776Z</updated>
     
@@ -2172,7 +2172,7 @@ Opera Unite,真正的网络共享		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="自然码" scheme="http://wxnn.org/tags/%E8%87%AA%E7%84%B6%E7%A0%81/"/>
@@ -2186,8 +2186,8 @@ Opera Unite,真正的网络共享		</title>
   <entry>
     <title>
 开通yahoo信箱的POP3功能		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/pop3-yahoo-mail/"/>
-    <id>http://wxnn.org/互联网/pop3-yahoo-mail/</id>
+    <link href="http://wxnn.org/Internet/pop3-yahoo-mail/"/>
+    <id>http://wxnn.org/Internet/pop3-yahoo-mail/</id>
     <published>2009-04-12T07:26:24.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2203,7 +2203,7 @@ Opera Unite,真正的网络共享		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="yahoo" scheme="http://wxnn.org/tags/yahoo/"/>
@@ -2215,8 +2215,8 @@ Opera Unite,真正的网络共享		</title>
   <entry>
     <title>
 twitter tools让wordpress变慢		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/twitter-tools-wordpress-slow/"/>
-    <id>http://wxnn.org/网站建设/twitter-tools-wordpress-slow/</id>
+    <link href="http://wxnn.org/Website-building/twitter-tools-wordpress-slow/"/>
+    <id>http://wxnn.org/Website-building/twitter-tools-wordpress-slow/</id>
     <published>2009-04-09T04:02:03.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2232,7 +2232,7 @@ twitter tools让wordpress变慢		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="Wordpress" scheme="http://wxnn.org/tags/Wordpress/"/>
@@ -2244,8 +2244,8 @@ twitter tools让wordpress变慢		</title>
   <entry>
     <title>
 解决了twitter tools乱码问题		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/twitter-tools-garbled/"/>
-    <id>http://wxnn.org/网站建设/twitter-tools-garbled/</id>
+    <link href="http://wxnn.org/Website-building/twitter-tools-garbled/"/>
+    <id>http://wxnn.org/Website-building/twitter-tools-garbled/</id>
     <published>2009-04-08T02:23:50.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2261,7 +2261,7 @@ twitter tools让wordpress变慢		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="twitter" scheme="http://wxnn.org/tags/twitter/"/>
@@ -2271,8 +2271,8 @@ twitter tools让wordpress变慢		</title>
   <entry>
     <title>
 胡兰成的《今生今世》		</title>
-    <link href="http://wxnn.org/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/hulancheng-my-life/"/>
-    <id>http://wxnn.org/无心呢喃/hulancheng-my-life/</id>
+    <link href="http://wxnn.org/Whisper/hulancheng-my-life/"/>
+    <id>http://wxnn.org/Whisper/hulancheng-my-life/</id>
     <published>2009-04-08T01:13:43.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2288,7 +2288,7 @@ twitter tools让wordpress变慢		</title>
     
     </summary>
     
-      <category term="无心呢喃" scheme="http://wxnn.org/categories/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/"/>
+      <category term="无心呢喃" scheme="http://wxnn.org/categories/Whisper/"/>
     
     
       <category term="读书" scheme="http://wxnn.org/tags/%E8%AF%BB%E4%B9%A6/"/>
@@ -2298,8 +2298,8 @@ twitter tools让wordpress变慢		</title>
   <entry>
     <title>
 blog加上了twitter		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/twitter-blog/"/>
-    <id>http://wxnn.org/互联网/twitter-blog/</id>
+    <link href="http://wxnn.org/Internet/twitter-blog/"/>
+    <id>http://wxnn.org/Internet/twitter-blog/</id>
     <published>2009-04-05T17:30:25.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2315,7 +2315,7 @@ blog加上了twitter		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
@@ -2327,8 +2327,8 @@ blog加上了twitter		</title>
   <entry>
     <title>
 不过是一个友情链接而已		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/friendly-links/"/>
-    <id>http://wxnn.org/网站建设/friendly-links/</id>
+    <link href="http://wxnn.org/Website-building/friendly-links/"/>
+    <id>http://wxnn.org/Website-building/friendly-links/</id>
     <published>2009-04-03T16:37:39.000Z</published>
     <updated>2019-07-27T09:35:03.173Z</updated>
     
@@ -2344,7 +2344,7 @@ blog加上了twitter		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -2356,8 +2356,8 @@ blog加上了twitter		</title>
   <entry>
     <title>
 在IIS下实现伪静态的问题		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/iis-rewrite-error/"/>
-    <id>http://wxnn.org/网站建设/iis-rewrite-error/</id>
+    <link href="http://wxnn.org/Website-building/iis-rewrite-error/"/>
+    <id>http://wxnn.org/Website-building/iis-rewrite-error/</id>
     <published>2009-04-02T18:27:51.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2373,7 +2373,7 @@ blog加上了twitter		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="Wordpress" scheme="http://wxnn.org/tags/Wordpress/"/>
@@ -2387,8 +2387,8 @@ blog加上了twitter		</title>
   <entry>
     <title>
 国内邮件推送(push mail)的思考		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/blackberry-push-mail/"/>
-    <id>http://wxnn.org/数码电脑/blackberry-push-mail/</id>
+    <link href="http://wxnn.org/Computer-Digital/blackberry-push-mail/"/>
+    <id>http://wxnn.org/Computer-Digital/blackberry-push-mail/</id>
     <published>2009-04-01T16:15:03.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2404,7 +2404,7 @@ blog加上了twitter		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -2418,8 +2418,8 @@ blog加上了twitter		</title>
   <entry>
     <title>
 hotmail信箱的POP3设置		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/hotmail-pop3/"/>
-    <id>http://wxnn.org/数码电脑/hotmail-pop3/</id>
+    <link href="http://wxnn.org/Computer-Digital/hotmail-pop3/"/>
+    <id>http://wxnn.org/Computer-Digital/hotmail-pop3/</id>
     <published>2009-03-31T13:21:42.000Z</published>
     <updated>2019-07-27T08:46:56.298Z</updated>
     
@@ -2435,7 +2435,7 @@ hotmail信箱的POP3设置		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
@@ -2451,8 +2451,8 @@ hotmail信箱的POP3设置		</title>
   <entry>
     <title>
 在IE8里支付宝和工商银行的解决方法		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/ie8-alipay-icbc/"/>
-    <id>http://wxnn.org/数码电脑/ie8-alipay-icbc/</id>
+    <link href="http://wxnn.org/Computer-Digital/ie8-alipay-icbc/"/>
+    <id>http://wxnn.org/Computer-Digital/ie8-alipay-icbc/</id>
     <published>2009-03-23T22:14:36.000Z</published>
     <updated>2019-07-27T08:47:27.586Z</updated>
     
@@ -2468,7 +2468,7 @@ hotmail信箱的POP3设置		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -2482,8 +2482,8 @@ hotmail信箱的POP3设置		</title>
   <entry>
     <title>
 IE8使用心得		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/ie8-use-experience/"/>
-    <id>http://wxnn.org/互联网/ie8-use-experience/</id>
+    <link href="http://wxnn.org/Internet/ie8-use-experience/"/>
+    <id>http://wxnn.org/Internet/ie8-use-experience/</id>
     <published>2009-03-23T21:54:11.000Z</published>
     <updated>2019-07-27T08:48:32.705Z</updated>
     
@@ -2499,7 +2499,7 @@ IE8使用心得		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="Firefox" scheme="http://wxnn.org/tags/Firefox/"/>
@@ -2513,8 +2513,8 @@ IE8使用心得		</title>
   <entry>
     <title>
 黑莓手机购机测试全攻略		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/blackberry-guide/"/>
-    <id>http://wxnn.org/数码电脑/blackberry-guide/</id>
+    <link href="http://wxnn.org/Computer-Digital/blackberry-guide/"/>
+    <id>http://wxnn.org/Computer-Digital/blackberry-guide/</id>
     <published>2009-03-22T03:26:54.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2530,7 +2530,7 @@ IE8使用心得		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
@@ -2542,8 +2542,8 @@ IE8使用心得		</title>
   <entry>
     <title>
 推荐一款USB hub		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/usb-hub-rose/"/>
-    <id>http://wxnn.org/数码电脑/usb-hub-rose/</id>
+    <link href="http://wxnn.org/Computer-Digital/usb-hub-rose/"/>
+    <id>http://wxnn.org/Computer-Digital/usb-hub-rose/</id>
     <published>2009-03-18T13:46:50.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2559,7 +2559,7 @@ IE8使用心得		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="usb" scheme="http://wxnn.org/tags/usb/"/>
@@ -2569,8 +2569,8 @@ IE8使用心得		</title>
   <entry>
     <title>
 吸血驴,一些不得不说的事		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/un-emule/"/>
-    <id>http://wxnn.org/互联网/un-emule/</id>
+    <link href="http://wxnn.org/Internet/un-emule/"/>
+    <id>http://wxnn.org/Internet/un-emule/</id>
     <published>2009-03-16T15:03:45.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2586,7 +2586,7 @@ IE8使用心得		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -2598,8 +2598,8 @@ IE8使用心得		</title>
   <entry>
     <title>
 德塞公园		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/desci-park/"/>
-    <id>http://wxnn.org/网站建设/desci-park/</id>
+    <link href="http://wxnn.org/Website-building/desci-park/"/>
+    <id>http://wxnn.org/Website-building/desci-park/</id>
     <published>2009-03-14T19:07:11.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2615,7 +2615,7 @@ IE8使用心得		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
@@ -2627,8 +2627,8 @@ IE8使用心得		</title>
   <entry>
     <title>
 一键给你电脑文件建立同名文件夹		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/setup-folder/"/>
-    <id>http://wxnn.org/数码电脑/setup-folder/</id>
+    <link href="http://wxnn.org/Computer-Digital/setup-folder/"/>
+    <id>http://wxnn.org/Computer-Digital/setup-folder/</id>
     <published>2009-03-14T10:53:48.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2644,7 +2644,7 @@ IE8使用心得		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="技巧" scheme="http://wxnn.org/tags/%E6%8A%80%E5%B7%A7/"/>
@@ -2654,8 +2654,8 @@ IE8使用心得		</title>
   <entry>
     <title>
 消除QQ网盘安全隐患		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/qq-netdisk-safe/"/>
-    <id>http://wxnn.org/数码电脑/qq-netdisk-safe/</id>
+    <link href="http://wxnn.org/Computer-Digital/qq-netdisk-safe/"/>
+    <id>http://wxnn.org/Computer-Digital/qq-netdisk-safe/</id>
     <published>2009-03-13T16:53:39.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2671,7 +2671,7 @@ IE8使用心得		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="QQ" scheme="http://wxnn.org/tags/QQ/"/>
@@ -2681,8 +2681,8 @@ IE8使用心得		</title>
   <entry>
     <title>
 卸载易通电脑锁		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/un-etong/"/>
-    <id>http://wxnn.org/数码电脑/un-etong/</id>
+    <link href="http://wxnn.org/Computer-Digital/un-etong/"/>
+    <id>http://wxnn.org/Computer-Digital/un-etong/</id>
     <published>2009-03-13T09:14:12.000Z</published>
     <updated>2019-07-27T09:37:38.061Z</updated>
     
@@ -2698,7 +2698,7 @@ IE8使用心得		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
@@ -2710,8 +2710,8 @@ IE8使用心得		</title>
   <entry>
     <title>
 山寨恒久远,一&quot;莓&quot;总流传!		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/blackberry-blueberry/"/>
-    <id>http://wxnn.org/数码电脑/blackberry-blueberry/</id>
+    <link href="http://wxnn.org/Computer-Digital/blackberry-blueberry/"/>
+    <id>http://wxnn.org/Computer-Digital/blackberry-blueberry/</id>
     <published>2009-03-12T14:21:59.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2727,7 +2727,7 @@ IE8使用心得		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
@@ -2741,8 +2741,8 @@ IE8使用心得		</title>
   <entry>
     <title>
 EATJ提供50M免费JSP空间		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/free-jsp-virtual-space/"/>
-    <id>http://wxnn.org/网站建设/free-jsp-virtual-space/</id>
+    <link href="http://wxnn.org/Website-building/free-jsp-virtual-space/"/>
+    <id>http://wxnn.org/Website-building/free-jsp-virtual-space/</id>
     <published>2009-03-12T09:09:17.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2758,7 +2758,7 @@ EATJ提供50M免费JSP空间		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -2772,8 +2772,8 @@ EATJ提供50M免费JSP空间		</title>
   <entry>
     <title>
 Firefox重装系统的配置和插件问题		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/firefox-configuration-plug/"/>
-    <id>http://wxnn.org/数码电脑/firefox-configuration-plug/</id>
+    <link href="http://wxnn.org/Computer-Digital/firefox-configuration-plug/"/>
+    <id>http://wxnn.org/Computer-Digital/firefox-configuration-plug/</id>
     <published>2009-03-11T20:11:04.000Z</published>
     <updated>2019-07-27T09:34:29.610Z</updated>
     
@@ -2789,7 +2789,7 @@ Firefox重装系统的配置和插件问题		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -2803,8 +2803,8 @@ Firefox重装系统的配置和插件问题		</title>
   <entry>
     <title>
 ghost的一些窍门		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/ghost-skills/"/>
-    <id>http://wxnn.org/数码电脑/ghost-skills/</id>
+    <link href="http://wxnn.org/Computer-Digital/ghost-skills/"/>
+    <id>http://wxnn.org/Computer-Digital/ghost-skills/</id>
     <published>2009-03-10T17:48:15.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2820,7 +2820,7 @@ ghost的一些窍门		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="windows" scheme="http://wxnn.org/tags/windows/"/>
@@ -2832,8 +2832,8 @@ ghost的一些窍门		</title>
   <entry>
     <title>
 仙剑online想说爱你不容易		</title>
-    <link href="http://wxnn.org/%E6%B8%B8%E6%88%8F/pal-online-goodbye/"/>
-    <id>http://wxnn.org/游戏/pal-online-goodbye/</id>
+    <link href="http://wxnn.org/Game/pal-online-goodbye/"/>
+    <id>http://wxnn.org/Game/pal-online-goodbye/</id>
     <published>2009-03-10T15:39:41.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2849,7 +2849,7 @@ ghost的一些窍门		</title>
     
     </summary>
     
-      <category term="游戏" scheme="http://wxnn.org/categories/%E6%B8%B8%E6%88%8F/"/>
+      <category term="游戏" scheme="http://wxnn.org/categories/Game/"/>
     
     
       <category term="WOW" scheme="http://wxnn.org/tags/WOW/"/>
@@ -2861,8 +2861,8 @@ ghost的一些窍门		</title>
   <entry>
     <title>
 我的Firefox插件及简介		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/my-firefoxplug/"/>
-    <id>http://wxnn.org/数码电脑/my-firefoxplug/</id>
+    <link href="http://wxnn.org/Computer-Digital/my-firefoxplug/"/>
+    <id>http://wxnn.org/Computer-Digital/my-firefoxplug/</id>
     <published>2009-03-08T23:55:14.000Z</published>
     <updated>2019-07-27T08:56:13.419Z</updated>
     
@@ -2878,7 +2878,7 @@ ghost的一些窍门		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -2892,8 +2892,8 @@ ghost的一些窍门		</title>
   <entry>
     <title>
 Wordpress字体的设置		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/wordpress-set-font/"/>
-    <id>http://wxnn.org/网站建设/wordpress-set-font/</id>
+    <link href="http://wxnn.org/Website-building/wordpress-set-font/"/>
+    <id>http://wxnn.org/Website-building/wordpress-set-font/</id>
     <published>2009-03-08T21:44:58.000Z</published>
     <updated>2019-07-26T01:18:00.854Z</updated>
     
@@ -2909,7 +2909,7 @@ Wordpress字体的设置		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
@@ -2921,8 +2921,8 @@ Wordpress字体的设置		</title>
   <entry>
     <title>
 让apache反向代理iis及多域名设置		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/apache-iis-asp-php/"/>
-    <id>http://wxnn.org/网站建设/apache-iis-asp-php/</id>
+    <link href="http://wxnn.org/Website-building/apache-iis-asp-php/"/>
+    <id>http://wxnn.org/Website-building/apache-iis-asp-php/</id>
     <published>2009-03-07T19:16:38.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2938,7 +2938,7 @@ Wordpress字体的设置		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="apache" scheme="http://wxnn.org/tags/apache/"/>
@@ -2954,8 +2954,8 @@ Wordpress字体的设置		</title>
   <entry>
     <title>
 优化大师流氓行径分析及修复方案		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/wopti-rogue-software/"/>
-    <id>http://wxnn.org/数码电脑/wopti-rogue-software/</id>
+    <link href="http://wxnn.org/Computer-Digital/wopti-rogue-software/"/>
+    <id>http://wxnn.org/Computer-Digital/wopti-rogue-software/</id>
     <published>2009-03-07T06:17:51.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -2971,7 +2971,7 @@ Wordpress字体的设置		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
@@ -2983,8 +2983,8 @@ Wordpress字体的设置		</title>
   <entry>
     <title>
 儿童版Windows Live Messenger		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/childrenwindows-live-messenger/"/>
-    <id>http://wxnn.org/数码电脑/childrenwindows-live-messenger/</id>
+    <link href="http://wxnn.org/Computer-Digital/childrenwindows-live-messenger/"/>
+    <id>http://wxnn.org/Computer-Digital/childrenwindows-live-messenger/</id>
     <published>2009-03-06T12:11:20.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3000,7 +3000,7 @@ Wordpress字体的设置		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
@@ -3014,8 +3014,8 @@ Wordpress字体的设置		</title>
   <entry>
     <title>
 All in One SEO Pack使用说明		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/all-in-one-seo-pack/"/>
-    <id>http://wxnn.org/网站建设/all-in-one-seo-pack/</id>
+    <link href="http://wxnn.org/Website-building/all-in-one-seo-pack/"/>
+    <id>http://wxnn.org/Website-building/all-in-one-seo-pack/</id>
     <published>2009-03-04T18:27:39.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3031,7 +3031,7 @@ All in One SEO Pack使用说明		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -3047,8 +3047,8 @@ All in One SEO Pack使用说明		</title>
   <entry>
     <title>
 取消Wordpress自动保存日志和清除重复日志		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/disableautosave-deleterevision/"/>
-    <id>http://wxnn.org/网站建设/disableautosave-deleterevision/</id>
+    <link href="http://wxnn.org/Website-building/disableautosave-deleterevision/"/>
+    <id>http://wxnn.org/Website-building/disableautosave-deleterevision/</id>
     <published>2009-03-04T15:48:26.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3064,7 +3064,7 @@ All in One SEO Pack使用说明		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="BLOG" scheme="http://wxnn.org/tags/BLOG/"/>
@@ -3079,8 +3079,8 @@ All in One SEO Pack使用说明		</title>
     <title>
 没有发现
 PHP 的扩展设置mbstring 解决方法		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/php-mbstring/"/>
-    <id>http://wxnn.org/网站建设/php-mbstring/</id>
+    <link href="http://wxnn.org/Website-building/php-mbstring/"/>
+    <id>http://wxnn.org/Website-building/php-mbstring/</id>
     <published>2009-03-02T07:52:26.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3096,7 +3096,7 @@ PHP 的扩展设置mbstring 解决方法		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -3112,8 +3112,8 @@ PHP 的扩展设置mbstring 解决方法		</title>
   <entry>
     <title>
 xrea最新空间申请攻略		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/xrea-virtual-space/"/>
-    <id>http://wxnn.org/网站建设/xrea-virtual-space/</id>
+    <link href="http://wxnn.org/Website-building/xrea-virtual-space/"/>
+    <id>http://wxnn.org/Website-building/xrea-virtual-space/</id>
     <published>2009-03-01T14:20:33.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3129,7 +3129,7 @@ xrea最新空间申请攻略		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -3143,8 +3143,8 @@ xrea最新空间申请攻略		</title>
   <entry>
     <title>
 在IIS6下安装PHP+MYSQL+PHPMYADMIN		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/iis6-php-mysql-phpmyadmin/"/>
-    <id>http://wxnn.org/网站建设/iis6-php-mysql-phpmyadmin/</id>
+    <link href="http://wxnn.org/Website-building/iis6-php-mysql-phpmyadmin/"/>
+    <id>http://wxnn.org/Website-building/iis6-php-mysql-phpmyadmin/</id>
     <published>2009-02-27T20:27:39.000Z</published>
     <updated>2019-07-27T08:49:29.242Z</updated>
     
@@ -3160,7 +3160,7 @@ xrea最新空间申请攻略		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -3178,8 +3178,8 @@ xrea最新空间申请攻略		</title>
   <entry>
     <title>
 给女儿起名		</title>
-    <link href="http://wxnn.org/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/daughter-name/"/>
-    <id>http://wxnn.org/无心呢喃/daughter-name/</id>
+    <link href="http://wxnn.org/Whisper/daughter-name/"/>
+    <id>http://wxnn.org/Whisper/daughter-name/</id>
     <published>2009-02-22T09:12:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3195,7 +3195,7 @@ xrea最新空间申请攻略		</title>
     
     </summary>
     
-      <category term="无心呢喃" scheme="http://wxnn.org/categories/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/"/>
+      <category term="无心呢喃" scheme="http://wxnn.org/categories/Whisper/"/>
     
     
       <category term="女儿" scheme="http://wxnn.org/tags/%E5%A5%B3%E5%84%BF/"/>
@@ -3207,8 +3207,8 @@ xrea最新空间申请攻略		</title>
   <entry>
     <title>
 给自己的Blogger加入Google Analytics		</title>
-    <link href="http://wxnn.org/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/blogger-google-analytics/"/>
-    <id>http://wxnn.org/网站建设/blogger-google-analytics/</id>
+    <link href="http://wxnn.org/Website-building/blogger-google-analytics/"/>
+    <id>http://wxnn.org/Website-building/blogger-google-analytics/</id>
     <published>2009-02-18T03:50:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3224,7 +3224,7 @@ xrea最新空间申请攻略		</title>
     
     </summary>
     
-      <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+      <category term="网站建设" scheme="http://wxnn.org/categories/Website-building/"/>
     
     
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
@@ -3238,8 +3238,8 @@ xrea最新空间申请攻略		</title>
   <entry>
     <title>
 想在网上找代冲PAYPAL的朋友要小心		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/paypal/"/>
-    <id>http://wxnn.org/互联网/paypal/</id>
+    <link href="http://wxnn.org/Internet/paypal/"/>
+    <id>http://wxnn.org/Internet/paypal/</id>
     <published>2009-02-16T03:27:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3255,7 +3255,7 @@ xrea最新空间申请攻略		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -3268,8 +3268,8 @@ xrea最新空间申请攻略		</title>
     <title>
 爱上黑莓
 blackberry		</title>
-    <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/love-blackberry/"/>
-    <id>http://wxnn.org/数码电脑/love-blackberry/</id>
+    <link href="http://wxnn.org/Computer-Digital/love-blackberry/"/>
+    <id>http://wxnn.org/Computer-Digital/love-blackberry/</id>
     <published>2009-02-15T07:28:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3285,7 +3285,7 @@ blackberry		</title>
     
     </summary>
     
-      <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
+      <category term="数码电脑" scheme="http://wxnn.org/categories/Computer-Digital/"/>
     
     
       <category term="黑莓" scheme="http://wxnn.org/tags/%E9%BB%91%E8%8E%93/"/>
@@ -3297,8 +3297,8 @@ blackberry		</title>
   <entry>
     <title>
 女儿出生了!		</title>
-    <link href="http://wxnn.org/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/born-daughter/"/>
-    <id>http://wxnn.org/无心呢喃/born-daughter/</id>
+    <link href="http://wxnn.org/Whisper/born-daughter/"/>
+    <id>http://wxnn.org/Whisper/born-daughter/</id>
     <published>2009-01-25T22:44:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3314,7 +3314,7 @@ blackberry		</title>
     
     </summary>
     
-      <category term="无心呢喃" scheme="http://wxnn.org/categories/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/"/>
+      <category term="无心呢喃" scheme="http://wxnn.org/categories/Whisper/"/>
     
     
       <category term="女儿" scheme="http://wxnn.org/tags/%E5%A5%B3%E5%84%BF/"/>
@@ -3324,8 +3324,8 @@ blackberry		</title>
   <entry>
     <title>
 该怎样迎接一个新生命的到来?		</title>
-    <link href="http://wxnn.org/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/welcome-new-life/"/>
-    <id>http://wxnn.org/无心呢喃/welcome-new-life/</id>
+    <link href="http://wxnn.org/Whisper/welcome-new-life/"/>
+    <id>http://wxnn.org/Whisper/welcome-new-life/</id>
     <published>2009-01-23T22:17:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3341,7 +3341,7 @@ blackberry		</title>
     
     </summary>
     
-      <category term="无心呢喃" scheme="http://wxnn.org/categories/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/"/>
+      <category term="无心呢喃" scheme="http://wxnn.org/categories/Whisper/"/>
     
     
       <category term="女儿" scheme="http://wxnn.org/tags/%E5%A5%B3%E5%84%BF/"/>
@@ -3351,8 +3351,8 @@ blackberry		</title>
   <entry>
     <title>
 57个不为人所知却很有用的Google软件产品		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/57-google-soft/"/>
-    <id>http://wxnn.org/互联网/57-google-soft/</id>
+    <link href="http://wxnn.org/Internet/57-google-soft/"/>
+    <id>http://wxnn.org/Internet/57-google-soft/</id>
     <published>2008-10-27T04:30:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3368,7 +3368,7 @@ blackberry		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
@@ -3380,8 +3380,8 @@ blackberry		</title>
   <entry>
     <title>
 白首相知犹按剑		</title>
-    <link href="http://wxnn.org/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/sword-friendship/"/>
-    <id>http://wxnn.org/无心呢喃/sword-friendship/</id>
+    <link href="http://wxnn.org/Whisper/sword-friendship/"/>
+    <id>http://wxnn.org/Whisper/sword-friendship/</id>
     <published>2008-08-27T21:16:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3397,7 +3397,7 @@ blackberry		</title>
     
     </summary>
     
-      <category term="无心呢喃" scheme="http://wxnn.org/categories/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/"/>
+      <category term="无心呢喃" scheme="http://wxnn.org/categories/Whisper/"/>
     
     
       <category term="诗词" scheme="http://wxnn.org/tags/%E8%AF%97%E8%AF%8D/"/>
@@ -3407,8 +3407,8 @@ blackberry		</title>
   <entry>
     <title>
 神奇的土耳其,奇迹的逆转!		</title>
-    <link href="http://wxnn.org/%E4%BD%93%E8%82%B2/magical-turkey/"/>
-    <id>http://wxnn.org/体育/magical-turkey/</id>
+    <link href="http://wxnn.org/Sports/magical-turkey/"/>
+    <id>http://wxnn.org/Sports/magical-turkey/</id>
     <published>2008-06-21T21:15:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3424,7 +3424,7 @@ blackberry		</title>
     
     </summary>
     
-      <category term="体育" scheme="http://wxnn.org/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://wxnn.org/categories/Sports/"/>
     
     
       <category term="欧洲杯" scheme="http://wxnn.org/tags/%E6%AC%A7%E6%B4%B2%E6%9D%AF/"/>
@@ -3436,8 +3436,8 @@ blackberry		</title>
   <entry>
     <title>
 无&quot;技术&quot;胜&quot;有技术&quot;—德国3:2胜葡萄		</title>
-    <link href="http://wxnn.org/%E4%BD%93%E8%82%B2/no-technology-football/"/>
-    <id>http://wxnn.org/体育/no-technology-football/</id>
+    <link href="http://wxnn.org/Sports/no-technology-football/"/>
+    <id>http://wxnn.org/Sports/no-technology-football/</id>
     <published>2008-06-20T21:14:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3453,7 +3453,7 @@ blackberry		</title>
     
     </summary>
     
-      <category term="体育" scheme="http://wxnn.org/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://wxnn.org/categories/Sports/"/>
     
     
       <category term="欧洲杯" scheme="http://wxnn.org/tags/%E6%AC%A7%E6%B4%B2%E6%9D%AF/"/>
@@ -3467,8 +3467,8 @@ blackberry		</title>
   <entry>
     <title>
 也说&quot;技术&quot;足球		</title>
-    <link href="http://wxnn.org/%E4%BD%93%E8%82%B2/technology-football/"/>
-    <id>http://wxnn.org/体育/technology-football/</id>
+    <link href="http://wxnn.org/Sports/technology-football/"/>
+    <id>http://wxnn.org/Sports/technology-football/</id>
     <published>2008-06-19T21:11:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3484,7 +3484,7 @@ blackberry		</title>
     
     </summary>
     
-      <category term="体育" scheme="http://wxnn.org/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://wxnn.org/categories/Sports/"/>
     
     
       <category term="欧洲杯" scheme="http://wxnn.org/tags/%E6%AC%A7%E6%B4%B2%E6%9D%AF/"/>
@@ -3500,8 +3500,8 @@ blackberry		</title>
   <entry>
     <title>
 暴雪发布官方暗黑II免CD补丁!		</title>
-    <link href="http://wxnn.org/%E6%B8%B8%E6%88%8F/blizzard-cdkey/"/>
-    <id>http://wxnn.org/游戏/blizzard-cdkey/</id>
+    <link href="http://wxnn.org/Game/blizzard-cdkey/"/>
+    <id>http://wxnn.org/Game/blizzard-cdkey/</id>
     <published>2008-06-18T21:10:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3517,7 +3517,7 @@ blackberry		</title>
     
     </summary>
     
-      <category term="游戏" scheme="http://wxnn.org/categories/%E6%B8%B8%E6%88%8F/"/>
+      <category term="游戏" scheme="http://wxnn.org/categories/Game/"/>
     
     
       <category term="Blizzard" scheme="http://wxnn.org/tags/Blizzard/"/>
@@ -3527,8 +3527,8 @@ blackberry		</title>
   <entry>
     <title>
 欧洲杯		</title>
-    <link href="http://wxnn.org/%E4%BD%93%E8%82%B2/football-european-championship/"/>
-    <id>http://wxnn.org/体育/football-european-championship/</id>
+    <link href="http://wxnn.org/Sports/football-european-championship/"/>
+    <id>http://wxnn.org/Sports/football-european-championship/</id>
     <published>2008-06-18T21:07:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3544,7 +3544,7 @@ blackberry		</title>
     
     </summary>
     
-      <category term="体育" scheme="http://wxnn.org/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://wxnn.org/categories/Sports/"/>
     
     
       <category term="欧洲杯" scheme="http://wxnn.org/tags/%E6%AC%A7%E6%B4%B2%E6%9D%AF/"/>
@@ -3556,8 +3556,8 @@ blackberry		</title>
   <entry>
     <title>
 风再起时----- 缅怀张国荣		</title>
-    <link href="http://wxnn.org/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/zhangguorong/"/>
-    <id>http://wxnn.org/无心呢喃/zhangguorong/</id>
+    <link href="http://wxnn.org/Whisper/zhangguorong/"/>
+    <id>http://wxnn.org/Whisper/zhangguorong/</id>
     <published>2007-04-01T21:05:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3573,7 +3573,7 @@ blackberry		</title>
     
     </summary>
     
-      <category term="无心呢喃" scheme="http://wxnn.org/categories/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/"/>
+      <category term="无心呢喃" scheme="http://wxnn.org/categories/Whisper/"/>
     
     
       <category term="张国荣" scheme="http://wxnn.org/tags/%E5%BC%A0%E5%9B%BD%E8%8D%A3/"/>
@@ -3585,8 +3585,8 @@ blackberry		</title>
   <entry>
     <title>
 看eq2东方版的倒闭---失败的&quot;橘子&quot;		</title>
-    <link href="http://wxnn.org/%E6%B8%B8%E6%88%8F/eq2-wow/"/>
-    <id>http://wxnn.org/游戏/eq2-wow/</id>
+    <link href="http://wxnn.org/Game/eq2-wow/"/>
+    <id>http://wxnn.org/Game/eq2-wow/</id>
     <published>2007-03-29T21:03:00.000Z</published>
     <updated>2019-07-27T09:34:14.338Z</updated>
     
@@ -3602,7 +3602,7 @@ blackberry		</title>
     
     </summary>
     
-      <category term="游戏" scheme="http://wxnn.org/categories/%E6%B8%B8%E6%88%8F/"/>
+      <category term="游戏" scheme="http://wxnn.org/categories/Game/"/>
     
     
       <category term="eq2" scheme="http://wxnn.org/tags/eq2/"/>
@@ -3614,8 +3614,8 @@ blackberry		</title>
   <entry>
     <title>
 小榕		</title>
-    <link href="http://wxnn.org/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/xiaorong/"/>
-    <id>http://wxnn.org/无心呢喃/xiaorong/</id>
+    <link href="http://wxnn.org/Whisper/xiaorong/"/>
+    <id>http://wxnn.org/Whisper/xiaorong/</id>
     <published>2006-03-27T22:00:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3631,7 +3631,7 @@ blackberry		</title>
     
     </summary>
     
-      <category term="无心呢喃" scheme="http://wxnn.org/categories/%E6%97%A0%E5%BF%83%E5%91%A2%E5%96%83/"/>
+      <category term="无心呢喃" scheme="http://wxnn.org/categories/Whisper/"/>
     
     
       <category term="黑客" scheme="http://wxnn.org/tags/%E9%BB%91%E5%AE%A2/"/>
@@ -3641,8 +3641,8 @@ blackberry		</title>
   <entry>
     <title>
 Google vs Microsoft		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/google-vs-microsoft/"/>
-    <id>http://wxnn.org/互联网/google-vs-microsoft/</id>
+    <link href="http://wxnn.org/Internet/google-vs-microsoft/"/>
+    <id>http://wxnn.org/Internet/google-vs-microsoft/</id>
     <published>2006-03-17T21:56:00.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3658,7 +3658,7 @@ Google vs Microsoft		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
@@ -3674,8 +3674,8 @@ Google vs Microsoft		</title>
   <entry>
     <title>
 firefox,ie杀手?		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/firefox-kill-ie/"/>
-    <id>http://wxnn.org/互联网/firefox-kill-ie/</id>
+    <link href="http://wxnn.org/Internet/firefox-kill-ie/"/>
+    <id>http://wxnn.org/Internet/firefox-kill-ie/</id>
     <published>2006-03-16T20:49:48.000Z</published>
     <updated>2019-07-25T04:22:42.000Z</updated>
     
@@ -3691,7 +3691,7 @@ firefox,ie杀手?		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -3707,8 +3707,8 @@ firefox,ie杀手?		</title>
   <entry>
     <title>
 国际域名历险记		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/international-domain-names/"/>
-    <id>http://wxnn.org/互联网/international-domain-names/</id>
+    <link href="http://wxnn.org/Internet/international-domain-names/"/>
+    <id>http://wxnn.org/Internet/international-domain-names/</id>
     <published>2006-03-02T21:51:00.000Z</published>
     <updated>2019-07-27T08:50:33.894Z</updated>
     
@@ -3724,7 +3724,7 @@ firefox,ie杀手?		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
@@ -3738,8 +3738,8 @@ firefox,ie杀手?		</title>
   <entry>
     <title>
 为了BLOG而BLOG?		</title>
-    <link href="http://wxnn.org/%E4%BA%92%E8%81%94%E7%BD%91/blog/"/>
-    <id>http://wxnn.org/互联网/blog/</id>
+    <link href="http://wxnn.org/Internet/blog/"/>
+    <id>http://wxnn.org/Internet/blog/</id>
     <published>2006-02-14T15:23:00.000Z</published>
     <updated>2019-07-27T09:21:45.765Z</updated>
     
@@ -3755,7 +3755,7 @@ firefox,ie杀手?		</title>
     
     </summary>
     
-      <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://wxnn.org/categories/Internet/"/>
     
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
