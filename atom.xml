@@ -81,9 +81,9 @@ digitalocean搭建wordpress		</title>
     
       <category term="域名" scheme="http://wxnn.org/tags/%E5%9F%9F%E5%90%8D/"/>
     
-      <category term="linux" scheme="http://wxnn.org/tags/linux/"/>
-    
       <category term="mysql" scheme="http://wxnn.org/tags/mysql/"/>
+    
+      <category term="linux" scheme="http://wxnn.org/tags/linux/"/>
     
       <category term="VPS" scheme="http://wxnn.org/tags/VPS/"/>
     
@@ -112,13 +112,13 @@ digitalocean搭建wordpress		</title>
       <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
     
     
-      <category term="email" scheme="http://wxnn.org/tags/email/"/>
-    
       <category term="Android" scheme="http://wxnn.org/tags/Android/"/>
     
       <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
     
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="email" scheme="http://wxnn.org/tags/email/"/>
     
       <category term="iOS" scheme="http://wxnn.org/tags/iOS/"/>
     
@@ -169,7 +169,7 @@ digitalocean搭建wordpress		</title>
     <link href="http://wxnn.org/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/android-apps-recommend-2/"/>
     <id>http://wxnn.org/数码电脑/android-apps-recommend-2/</id>
     <published>2013-12-17T09:46:24.000Z</published>
-    <updated>2019-07-27T09:49:21.228Z</updated>
+    <updated>2019-07-31T01:10:51.455Z</updated>
     
     <summary type="html">
     
@@ -1005,9 +1005,9 @@ bluehost空间申请免费SSH及搭建		</title>
       <category term="网站建设" scheme="http://wxnn.org/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
     
     
-      <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
-    
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
       <category term="chrome" scheme="http://wxnn.org/tags/chrome/"/>
     
@@ -1545,9 +1545,9 @@ icq7中文版		</title>
       <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
     
-      <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
-    
       <category term="软件" scheme="http://wxnn.org/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="msn" scheme="http://wxnn.org/tags/msn/"/>
     
       <category term="QQ" scheme="http://wxnn.org/tags/QQ/"/>
     
@@ -1578,9 +1578,9 @@ google 选择不离开中国		</title>
       <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
     
-      <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
-    
       <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
+    
+      <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
     
       <category term="应用" scheme="http://wxnn.org/tags/%E5%BA%94%E7%94%A8/"/>
     
@@ -1645,11 +1645,11 @@ Google Goggles		</title>
       <category term="互联网" scheme="http://wxnn.org/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
     
+      <category term="Android" scheme="http://wxnn.org/tags/Android/"/>
+    
       <category term="Google" scheme="http://wxnn.org/tags/Google/"/>
     
       <category term="互联网" scheme="http://wxnn.org/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
-    
-      <category term="Android" scheme="http://wxnn.org/tags/Android/"/>
     
       <category term="Gps" scheme="http://wxnn.org/tags/Gps/"/>
     
@@ -1705,9 +1705,9 @@ Google Goggles		</title>
       <category term="数码电脑" scheme="http://wxnn.org/categories/%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91/"/>
     
     
-      <category term="email" scheme="http://wxnn.org/tags/email/"/>
-    
       <category term="手机" scheme="http://wxnn.org/tags/%E6%89%8B%E6%9C%BA/"/>
+    
+      <category term="email" scheme="http://wxnn.org/tags/email/"/>
     
       <category term="黑莓" scheme="http://wxnn.org/tags/%E9%BB%91%E8%8E%93/"/>
     
